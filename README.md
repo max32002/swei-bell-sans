@@ -9,7 +9,7 @@
 ![字體預覽](https://github.com/max32002/swei-bell-sans/raw/master/preview/welcome.png)
 
 ## 與思源黑體比較
-第一行是「獅尾喇叭黑體」效果較粗，第二行是原版的「思源黑體」：
+第一行是「獅尾喇叭黑體」，第二行是原版的「思源黑體」：
 
 ![字體比較](https://github.com/max32002/swei-bell-sans/raw/master/preview/compare_noto_sans.png)
 
