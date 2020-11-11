@@ -8,6 +8,10 @@
 
 ![字體預覽](https://github.com/max32002/swei-bell-sans/raw/master/preview/welcome.png)
 
+「獅尾喇叭黑體」設計上針對筆畫粗細支援7種字重，所以不論大標、小標、簡單的段落排版都能清晰辨識：
+![字體比較預覽](https://github.com/max32002/swei-bell-sans/raw/master/preview/compare_style.png)
+附註：目前有些筆畫還沒有套用到效果，是程式需要改進的地方。
+
 ## 與思源黑體比較
 第一行是「獅尾喇叭黑體」，第二行是原版的「思源黑體」：
 
